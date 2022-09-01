@@ -5,3 +5,14 @@
 funcionalidades de cadastro de clientes, cadastro de marcas, cadastro de modelo, cadastro de serviços 
 e cadastro de atendimentos a clientes.
 
+![Alt text](public/assets/img/tela_inicial.png?raw=true "Tela de inicio")
+![Alt text](public/assets/img/cadastrados_clientes.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrar_clientes.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrado_marca.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrar_marcas.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrado_modelo.png?raw=true "Title")
+![Alt text](public/assets/img/casdastrar_modelos.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrados_servicos.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrar_servicos.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrado_atendimento.png?raw=true "Title")
+![Alt text](public/assets/img/cadastrar_atendimento.png?raw=true "Title")
