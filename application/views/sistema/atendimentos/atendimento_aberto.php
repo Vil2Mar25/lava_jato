@@ -113,7 +113,7 @@
                                         <input class="col-12" type="text" id="placa_veiculo" name="placa_veiculo">
                                     </label>
                                     <label class="col-4">servicos_atendimento
-                                        <select name="servicos_atendimento" id="servicos_atendimento">
+                                        <select name="servicos_atendimento" id="servicos_atendimento" class="form-control multiple-select" multiple>
                                             <option value="">- Selecione -</option>
                                             <?php foreach ($servicos as $servico) : ?>
                                                 <option value="<?= $servico->id_servico ?>"><?= $servico->nome_servico ?></option>
@@ -165,6 +165,9 @@
                 $('#estado_cliente').val(result.estado_cliente);
                 console.log(result);
             });
+        });
+        $(".multiple-select").select2({
+            //maximumSelectionLength: 2
         });
     });
 </script>
