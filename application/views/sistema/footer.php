@@ -36,6 +36,8 @@
     <script src="<= base_url('')?>public/assets/js/demo/chart-pie-demo.js"></script>
     -->
 
+    <!--Select2 inicializador-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/js/select2.min.js" defer></script>
     <script>
         $(document).ready(function(){
             
